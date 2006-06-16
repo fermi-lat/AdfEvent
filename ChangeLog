@@ -1,0 +1,30 @@
+------------------------------------------------------------
+User: omodei  Fri Jun 16 06:28:16 PDT 2006
+AdfEvent
+
+Log Message:
+
+
+Status:
+
+Vendor Tag:	glast
+Release Tags:	v0
+		
+N AdfEvent/.cvsignore
+N AdfEvent/AdfEvent/AdfEvent.h
+N AdfEvent/AdfEvent/AncillaryWord.h
+N AdfEvent/AdfEvent/EventSummaryData.h
+N AdfEvent/AdfEvent/FadcDataWord.h
+N AdfEvent/AdfEvent/FadcHeaderWord.h
+N AdfEvent/AdfEvent/QdcDataWord.h
+N AdfEvent/AdfEvent/QdcHeaderWord.h
+N AdfEvent/AdfEvent/ScalerDataWord.h
+N AdfEvent/AdfEvent/ScalerHeaderWord.h
+N AdfEvent/cmt/requirements
+N AdfEvent/cmt/.cvsignore
+N AdfEvent/src/temp.cxx
+N AdfEvent/src/test/testMain.cxx
+
+No conflicts created by this import
+
+    *
