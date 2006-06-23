@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: heather  Fri Jun 23 01:25:16 PDT 2006
+AdfEvent/AdfEvent
+
+Modified Files:
+	AdfEvent.h 
+Log Message:
+remove extra ;
+    *
+------------------------------------------------------------
 User: heather  Thu Jun 22 00:13:55 PDT 2006
 AdfEvent/AdfEvent
 
