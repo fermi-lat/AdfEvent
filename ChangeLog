@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: omodei  Fri Jul 21 08:50:10 PDT 2006
+AdfEvent/AdfEvent
+
+Modified Files:
+	TaggerParameters.h 
+Log Message:
+Add the MAX_CLUSTER_GAP parameter here
+    *
+------------------------------------------------------------
 TAG
 Tag name: v0r4, operation: add
 Package: AdfEvent
