@@ -2,6 +2,14 @@
 TAG
 Tag name: v0r5, operation: add
 Package: AdfEvent
+User: omodei  Mon Aug  7 13:59:20 2006
+Files:
+
+    *
+------------------------------------------------------------
+TAG
+Tag name: v0r5, operation: add
+Package: AdfEvent
 User: heather  Tue Jul 25 08:26:31 2006
 Files:
   AdfEvent/.cvsignore  1.1.1.1
