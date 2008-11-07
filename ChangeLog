@@ -1,4 +1,17 @@
 ------------------------------------------------------------
+User: ecephas  Fri Nov  7 08:03:00 PST 2008
+GlastRelease-scons/AdfEvent
+
+Modified Files:
+	AdfEventLib.py 
+Log Message:
+Added the following libraries:
+
+	     	env.Tool('facilitiesLib')
+     		env.Tool('addLibrary', library = env['gaudiLibs'])
+
+    *
+------------------------------------------------------------
 User: ecephas  Fri Nov  7 08:01:53 PST 2008
 GlastRelease-scons/AdfEvent
 
