@@ -1,5 +1,5 @@
 # -*- python -*-
-# $Header$
+# $Header: /nfs/slac/g/glast/ground/cvs/GlastRelease-scons/AdfEvent/SConscript,v 1.1 2008/08/15 21:22:38 ecephas Exp $
 # Authors: N.Omodei <nicola.omodei@pi.infn.it>
 # Version: AdfEvent-00-05-01
 
@@ -15,4 +15,7 @@ AdfEvent = libEnv.StaticLibrary('AdfEvent',listFiles(['src/*.cxx']))
 progEnv.Tool('AdfEventLib')
 test_AdfEvent = progEnv.Program('test_AdfEvent', ['src/test/testMain.cxx'])
 
-progEnv.Tool('registerObjects', package = 'AdfEvent', libraries = [AdfEvent], testApps = [test_AdfEvent], includes = listFiles(['AdfEvent/*.h']))
+progEnv.Tool('registerObjects', package = 'AdfEvent',
+             libraries = [AdfEvent],
+             testApps = [test_AdfEvent],
+             includes = listFiles(['AdfEvent/*.h']))
