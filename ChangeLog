@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: ecephas  Fri Nov  7 08:01:53 PST 2008
+GlastRelease-scons/AdfEvent
+
+Modified Files:
+	SConscript 
+Log Message:
+Made formatting changes
+    *
+------------------------------------------------------------
 User: ecephas  Fri Aug 15 14:42:33 PDT 2008
 GlastRelease-scons/AdfEvent
 
