@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: ecephas  Mon Dec  8 13:15:18 PST 2008
+GlastRelease-scons/AdfEvent
+
+Modified Files:
+	SConscript 
+Log Message:
+Check in SConscript for AdfEvent v0r5 (for branch-tag, GlastReleasev15r49) 
+    *
+------------------------------------------------------------
 User: ecephas  Fri Nov  7 08:03:00 PST 2008
 GlastRelease-scons/AdfEvent
 
