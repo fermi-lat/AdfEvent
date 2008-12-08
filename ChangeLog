@@ -1,4 +1,14 @@
 ------------------------------------------------------------
+TAG
+Tag name: AdfEvent-00-05-00, operation: add
+Package: AdfEvent
+User: ecephas  Mon Dec  8 13:15:24 2008
+Files:
+  AdfEvent/SConscript  1.3
+  AdfEvent/SConscript  1.3
+
+    *
+------------------------------------------------------------
 User: ecephas  Mon Dec  8 13:15:18 PST 2008
 GlastRelease-scons/AdfEvent
 
