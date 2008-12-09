@@ -2,6 +2,16 @@
 TAG
 Tag name: AdfEvent-00-05-00, operation: add
 Package: AdfEvent
+User: ecephas  Mon Dec  8 16:08:20 2008
+Files:
+  AdfEvent/AdfEventLib.py  1.2
+  AdfEvent/AdfEventLib.py  1.2
+
+    *
+------------------------------------------------------------
+TAG
+Tag name: AdfEvent-00-05-00, operation: add
+Package: AdfEvent
 User: ecephas  Mon Dec  8 13:15:24 2008
 Files:
   AdfEvent/SConscript  1.3
