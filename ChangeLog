@@ -1,5 +1,13 @@
 ------------------------------------------------------------
 TAG
+Tag name: GlastRelease-15-49-00, operation: add
+Package: AdfEvent
+User: glastrm  Fri Jan  9 13:14:45 2009
+Files:
+
+    *
+------------------------------------------------------------
+TAG
 Tag name: GlastRelease-15-50-10, operation: del
 Package: AdfEvent
 User: glastrm  Fri Jan  9 08:29:52 2009
