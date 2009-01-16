@@ -1,5 +1,14 @@
 ------------------------------------------------------------
 TAG
+Tag name: v0r5, operation: del
+Package: AdfEvent
+User: glastrm  Fri Jan 16 09:42:00 2009
+Files:
+  AdfEvent/AdfEventLib.py  1.2
+
+    *
+------------------------------------------------------------
+TAG
 Tag name: AdfEvent-00-05-01, operation: add
 Package: AdfEvent
 User: glastrm  Fri Jan 16 09:41:39 2009
