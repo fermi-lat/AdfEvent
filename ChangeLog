@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: ecephas  Fri Jan 16 09:30:45 PST 2009
+GlastRelease-scons/AdfEvent
+
+Modified Files:
+	SConscript 
+Log Message:
+Changed the Version string from AdfEvent-00-05-00 to AdfEvent-00-05-01
+    *
+------------------------------------------------------------
 TAG
 Tag name: GlastRelease-15-49-00, operation: add
 Package: AdfEvent
