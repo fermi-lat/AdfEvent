@@ -1,4 +1,15 @@
 ------------------------------------------------------------
+User: jrb  Fri Aug  7 14:52:17 PDT 2009
+GlastRelease-scons/AdfEvent
+
+Modified Files:
+	.cvsignore SConscript 
+Log Message:
+SConscript:  use registerTargets
+.cvsignore:  add SCons build products
+
+    *
+------------------------------------------------------------
 User: heather  Wed Jul  1 08:43:10 PDT 2009
 AdfEvent/doc
 
