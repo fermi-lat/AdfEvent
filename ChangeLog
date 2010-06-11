@@ -1,4 +1,13 @@
 ------------------------------------------------------------
+User: jrb  Thu Jun 10 17:31:57 PDT 2010
+GlastRelease-scons/AdfEvent
+
+Modified Files:
+	SConscript 
+Log Message:
+updates for SCons build
+    *
+------------------------------------------------------------
 TAG
 Tag name: AdfEvent-00-05-02, operation: add
 Package: AdfEvent
