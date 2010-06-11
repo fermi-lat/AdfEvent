@@ -1,5 +1,5 @@
 # -*- python -*-
-# $Header: /nfs/slac/g/glast/ground/cvs/GlastRelease-scons/AdfEvent/SConscript,v 1.6 2009/08/07 21:52:17 jrb Exp $
+# $Header: /nfs/slac/g/glast/ground/cvs/GlastRelease-scons/AdfEvent/SConscript,v 1.7 2009/11/06 01:48:12 jrb Exp $
 # Authors: N.Omodei <nicola.omodei@pi.infn.it>
 # Version: AdfEvent-00-05-02
 Import('baseEnv')
@@ -8,7 +8,6 @@ Import('packages')
 progEnv = baseEnv.Clone()
 libEnv = baseEnv.Clone()
 
-libEnv.Tool('AdfEventLib',depsOnly=1)
 AdfEvent = libEnv.StaticLibrary('AdfEvent',listFiles(['src/*.cxx']))
 
 progEnv.Tool('AdfEventLib')
