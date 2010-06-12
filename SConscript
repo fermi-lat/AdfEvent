@@ -1,7 +1,7 @@
 # -*- python -*-
-# $Header: /nfs/slac/g/glast/ground/cvs/GlastRelease-scons/AdfEvent/SConscript,v 1.7 2009/11/06 01:48:12 jrb Exp $
+# $Header: /nfs/slac/g/glast/ground/cvs/AdfEvent/SConscript,v 1.8 2010/06/11 00:31:57 jrb Exp $
 # Authors: N.Omodei <nicola.omodei@pi.infn.it>
-# Version: AdfEvent-00-05-02
+# Version: AdfEvent-00-05-03
 Import('baseEnv')
 Import('listFiles')
 Import('packages')
