@@ -1,5 +1,32 @@
 ------------------------------------------------------------
 TAG
+Tag name: GlastRelease-19-03-07, operation: del
+Package: AdfEvent
+User: glastrm  Tue Sep  6 14:13:48 2011
+Files:
+  AdfEvent/.cvsignore  1.2
+  AdfEvent/AdfEventLib.py  1.2
+  AdfEvent/ChangeLog  1.64
+  AdfEvent/SConscript  1.9
+  AdfEvent/AdfEvent/AncillaryWord.h  1.3
+  AdfEvent/AdfEvent/ScalerHeaderWord.h  1.2
+  AdfEvent/AdfEvent/QdcHeaderWord.h  1.2
+  AdfEvent/AdfEvent/TaggerParameters.h  1.4
+  AdfEvent/AdfEvent/EventSummaryData.h  1.4
+  AdfEvent/AdfEvent/FadcDataWord.h  1.3
+  AdfEvent/AdfEvent/QdcDataWord.h  1.4
+  AdfEvent/AdfEvent/FadcHeaderWord.h  1.2
+  AdfEvent/AdfEvent/AdfEvent.h  1.4
+  AdfEvent/AdfEvent/ScalerDataWord.h  1.2
+  AdfEvent/cmt/.cvsignore  1.1.1.1
+  AdfEvent/cmt/requirements  1.5
+  AdfEvent/doc/release.notes  1.10
+  AdfEvent/src/temp.cxx  1.1.1.1
+  AdfEvent/src/test/testMain.cxx  1.1.1.1
+
+    *
+------------------------------------------------------------
+TAG
 Tag name: GlastRelease-19-03-07, operation: add
 Package: AdfEvent
 User: heather  Fri Sep  2 19:54:52 2011
