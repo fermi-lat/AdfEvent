@@ -2,6 +2,17 @@
 TAG
 Tag name: GlastRelease-19-03-07, operation: add
 Package: AdfEvent
+User: heather  Wed Sep  7 10:29:44 2011
+Files:
+  AdfEvent/doc/release.notes  1.10
+  AdfEvent/src/temp.cxx  1.1.1.1
+  AdfEvent/src/test/testMain.cxx  1.1.1.1
+
+    *
+------------------------------------------------------------
+TAG
+Tag name: GlastRelease-19-03-07, operation: add
+Package: AdfEvent
 User: heather  Wed Sep  7 10:29:39 2011
 Files:
   AdfEvent/.cvsignore  1.2
